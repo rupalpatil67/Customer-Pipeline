@@ -76,69 +76,69 @@ curl -X POST http://localhost:8000/api/ingest
 
 ### 2. Flask Health Check — `GET /api/health`
 
-![Flask Health](screenshots/flask_health.png)
+![Flask Health](Screenshots/flask_health.png)
 
 
-![Flask Health_webpage](screenshots/flask_health_webpage.png)
+![Flask Health_webpage](Screenshots/flask_health_webpage.png)
 
 ---
 
 ### 3. Flask Paginated Customers — `GET /api/customers?page=1&limit=5`
 
-![Flask Customers](screenshots/flask_customers.png)
+![Flask Customers](Screenshots/flask_customers.png)
 
-![Flask Customers_webpage](screenshots/flask_customers_webpage.png)
+![Flask Customers_webpage](Screenshots/flask_customers_webpage.png)
 
 
 ---
 
 ### 4. Flask Single Customer — `GET /api/customers/CUST001`
 
-![Flask Single Customer](screenshots/flask_single_customer.png)
+![Flask Single Customer](Screenshots/flask_single_customer.png)
 
-![Flask Single Customer_webpage](screenshots/flask_single_customer_webpage.png)
+![Flask Single Customer_webpage](Screenshots/flask_single_customer_webpage.png)
 
 ---
 
 ### 5. Data Ingestion — `POST /api/ingest`
 
-![Ingest Data](screenshots/ingest.png)
+![Ingest Data](Screenshots/ingest.png)
 
 ---
 
 ### 6. FastAPI Paginated Customers — `GET /api/customers?page=1&limit=5`
 
-![FastAPI Customers](screenshots/fastapi_customers.png)
+![FastAPI Customers](Screenshots/fastapi_customers.png)
 
-![FastAPI Customers_webpage](screenshots/fastapi_customers_webpage.png)
+![FastAPI Customers_webpage](Screenshots/fastapi_customers_webpage.png)
 
 ---
 
 ### 7. FastAPI Single Customer — `GET /api/customers/CUST001`
 
-![FastAPI Single Customer](screenshots/fastapi_single_customer.png)
+![FastAPI Single Customer](Screenshots/fastapi_single_customer.png)
 
-![FastAPI Single Customer_webpage](screenshots/fastapi_single_customer_webpage.png)
+![FastAPI Single Customer_webpage](Screenshots/fastapi_single_customer_webpage.png)
 
 ---
 
 ### 8. FastAPI Interactive Docs — `http://localhost:8000/docs`
 
-![FastAPI Docs](screenshots/fastapi_docs.png)
+![FastAPI Docs](Screenshots/fastapi_docs.png)
 
 ---
 
 ### 9. Docker Desktop
 
-![docker conainer](screenshots/docker_container.png)
+![docker conainer](Screenshots/docker_container.png)
 
-![docker images](screenshots/docker%20images%20.png)
+![docker images](Screenshots/docker%20images%20.png)
 
 ---
 
 ### 10. Github Console
 
-![Github Console](screenshots/github%20push%20.png)
+![Github Console](Screenshots/github%20push%20.png)
 
 ---
 
