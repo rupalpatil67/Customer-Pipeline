@@ -213,7 +213,7 @@ docker compose down -v
 
 ## 👤 Submitted By
 
-**Name:** Rupal Patil 
-**Email:** rupalpatil1617@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/rupalpatil67/
+**Name:** Rupal Patil  
+**Email:** rupalpatil1617@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/rupalpatil67/  
 **Date:** 26 March 2026
