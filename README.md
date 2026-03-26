@@ -76,43 +76,69 @@ curl -X POST http://localhost:8000/api/ingest
 
 ### 2. Flask Health Check — `GET /api/health`
 
-![Flask Health](screenshots/02_flask_health.png)
+![Flask Health](screenshots/flask_health.png)
+
+
+![Flask Health_webpage](screenshots/flask_health_webpage.png)
 
 ---
 
 ### 3. Flask Paginated Customers — `GET /api/customers?page=1&limit=5`
 
-![Flask Customers](screenshots/03_flask_customers.png)
+![Flask Customers](screenshots/flask_customers.png)
+
+![Flask Customers_webpage](screenshots/flask_customers_webpage.png)
+
 
 ---
 
 ### 4. Flask Single Customer — `GET /api/customers/CUST001`
 
-![Flask Single Customer](screenshots/04_flask_single_customer.png)
+![Flask Single Customer](screenshots/flask_single_customer.png)
+
+![Flask Single Customer_webpage](screenshots/flask_single_customer_webpage.png)
 
 ---
 
 ### 5. Data Ingestion — `POST /api/ingest`
 
-![Ingest Data](screenshots/05_ingest.png)
+![Ingest Data](screenshots/ingest.png)
 
 ---
 
 ### 6. FastAPI Paginated Customers — `GET /api/customers?page=1&limit=5`
 
-![FastAPI Customers](screenshots/06_fastapi_customers.png)
+![FastAPI Customers](screenshots/fastapi_customers.png)
+
+![FastAPI Customers_webpage](screenshots/fastapi_customers_webpage.png)
 
 ---
 
 ### 7. FastAPI Single Customer — `GET /api/customers/CUST001`
 
-![FastAPI Single Customer](screenshots/07_fastapi_single_customer.png)
+![FastAPI Single Customer](screenshots/fastapi_single_customer.png)
+
+![FastAPI Single Customer_webpage](screenshots/fastapi_single_customer_webpage.png)
 
 ---
 
 ### 8. FastAPI Interactive Docs — `http://localhost:8000/docs`
 
-![FastAPI Docs](screenshots/08_fastapi_docs.png)
+![FastAPI Docs](screenshots/fastapi_docs.png)
+
+---
+
+### 9. Docker Desktop
+
+![docker conainer](screenshots/docker_container.png)
+
+![docker images](screenshots/docker%20images%20.png)
+
+---
+
+### 10. Github Console
+
+![Github Console](screenshots/github%20push%20.png)
 
 ---
 
