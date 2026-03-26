@@ -70,7 +70,7 @@ curl -X POST http://localhost:8000/api/ingest
 
 ### 1. All 3 Containers Running — `docker compose ps`
 
-![Docker Compose PS](screenshots/01_docker_compose_ps.png)
+![Docker Compose PS](Screenshots/docker%20compose%20ps.png)
 
 ---
 
