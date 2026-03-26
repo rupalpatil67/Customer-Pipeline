@@ -1,6 +1,6 @@
 # Customer Data Pipeline
 
-> A 3-service Dockerized data pipeline — Flask mock server → FastAPI ingestion service → PostgreSQL database
+> Flask API → Fetch Data → FastAPI Ingestion → Store → PostgreSQL Database
 
 ---
 
@@ -187,5 +187,7 @@ docker compose down -v
 
 ## 👤 Submitted By
 
-**Name:** Rupal  
-**Date:** March 2026
+**Name:** Rupal Patil 
+**Email:** rupalpatil1617@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/rupalpatil67/
+**Date:** 26 March 2026
